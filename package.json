@@ -1,0 +1,20 @@
+{
+  "name": "gildedrose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --env=node",
+    "test:watch": "jest --env=node --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.4.3"
+  },
+  "dependencies": {
+    "npm": "^6.3.0"
+  }
+}
